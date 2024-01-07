@@ -47,7 +47,6 @@ public class numberGame {
         }
 
         System.out.println("Thanks for playing!");
-        System.out.println("Your total score is based on the number of attempts and rounds won.");
         System.out.println("Total Rounds: " + rounds);
         System.out.println("Total Attempts: " + totalAttempts);
 
